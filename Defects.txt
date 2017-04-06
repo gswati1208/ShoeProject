@@ -1,0 +1,9 @@
+Defects:
+
+Story: Monthly display of new releases
+
+1. For December Month No Shoes are displayed
+2. For November Month Shoe image is not displayed.
+3. Alignment of description is not proper.
+
+
